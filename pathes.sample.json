@@ -1,0 +1,5 @@
+{
+    "checkpoint_path": "checkpoints_old_3\\reward_network_epoch_365_loss_0.1073.pth",
+    "graspnet_root": "E:/GraspNet",
+    "dump_folder": "E:/GraspNet/dump_folder"
+}
